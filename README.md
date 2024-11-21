@@ -80,4 +80,4 @@
 
 ---
 
-Este diseño le da un aspecto llamativo y profesional a tu perfil, con un estilo limpio y organizado.
+

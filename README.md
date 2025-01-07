@@ -27,15 +27,9 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo" />
   <img width="25" />
@@ -46,22 +40,25 @@
 
 ## 📂 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Abdeer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=motaban&show_icons=true&theme=radical" alt="Abdeer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaban&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/motaban/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motaban&repo=project1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/motaban/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motaban&repo=project2&theme=radical" alt="Project 2" />
   </a>
 </p>
 
 ---
+
+Feel free to connect with me or check out my projects! 🌐
+
 
 Feel free to connect with me or check out my projects! 🌐

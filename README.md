@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi! 👋
 
 <p align="center">
   I’m Abdeer Figuera, a passionate web and software designer based in Argentina. I have a strong background in programming and specialize in front-end and back-end development, creating professional and interactive web solutions. I also have experience developing tools to analyze sales data and provide actionable recommendations.

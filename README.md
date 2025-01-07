@@ -46,19 +46,5 @@
 
 ---
 
-## 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/motaban/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motaban&repo=project1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/motaban/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motaban&repo=project2&theme=radical" alt="Project 2" />
-  </a>
-</p>
-
----
-
-Feel free to connect with me or check out my projects! 🌐
-
 
 Feel free to connect with me or check out my projects! 🌐

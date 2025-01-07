@@ -1,12 +1,12 @@
 # Hi there! 👋
 
 <p align="center">
-  I’m **Abdeer Figuera**, a passionate web and software designer based in Argentina. I have a strong background in programming and specialize in front-end and back-end development, creating professional and interactive web solutions. I also have experience developing tools to analyze sales data and provide actionable recommendations.
+  I’m Abdeer Figuera, a passionate web and software designer based in Argentina. I have a strong background in programming and specialize in front-end and back-end development, creating professional and interactive web solutions. I also have experience developing tools to analyze sales data and provide actionable recommendations.
   <br><br>
-  💡 **Currently exploring:**<br><br>
+  💡 Currently exploring:<br><br>
   Nest.js<br>
   Angular<br>
-  🤝 **Looking to collaborate on:**<br><br>
+  🤝 Looking to collaborate on:<br><br>
   Open source projects<br>
   Web design and development challenges
 </p>

@@ -3,8 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=motaban&label=Profile%20Views&color=00FFAA&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/motaban?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/badge/📍%20Argentina-brightgreen?style=flat" alt="Location" />
   <img src="https://img.shields.io/badge/📦-Available%20for%20relocation-ff69b4?style=flat" alt="Relocation" />
 </p>

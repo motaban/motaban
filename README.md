@@ -177,30 +177,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motaban&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00FFAA&title_color=00FFAA&icon_color=00FFAA" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=motaban&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA" alt="GitHub Streak" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaban&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=motaban&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00FFAA&line=00FFAA&point=FFFFFF" alt="Activity Graph" width="45%" />
-</p>
-
----
-
-### 🐍 Contribution Snake Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/motaban/motaban/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/motaban/motaban/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/motaban/motaban/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ### 💬 Random Dev Quote
 
 <p align="center">

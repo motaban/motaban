@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=motaban&label=Profile%20Views&color=00FFAA&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/motaban?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/badge/📍%2C%20Argentina-brightgreen?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/📍%20Argentina-brightgreen?style=flat" alt="Location" />
   <img src="https://img.shields.io/badge/📦-Available%20for%20relocation-ff69b4?style=flat" alt="Relocation" />
 </p>
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍💻 Professional Profile
+### 👨‍💻 Profile
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
@@ -143,21 +143,6 @@
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>
-      <strong>👨‍🏫 Software Developer & Mentor</strong><br />
-      <em>APX – Software Development Academy (Remote) | 2022 – Present</em>
-      <ul>
-        <li>Guidance and support for students in software development learning</li>
-        <li>Secure web application development with JavaScript, TypeScript & Node.js</li>
-        <li>API security and sensitive data handling</li>
-        <li>Responsive interfaces with React and Angular</li>
-        <li>Usability and learning experience improvement</li>
-        <li>Agile sprints delivering scalable features with security focus</li>
-        <li>Code quality and collaborative learning support</li>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -239,7 +224,7 @@
   <a href="mailto:motaban.abdeer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://linkedin.com/in/abdeerfiguera">
+  <a href="https://linkedin.com/in/abdeer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
 </p>

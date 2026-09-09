@@ -164,8 +164,7 @@
 ### 🎓 Education & Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tecnicatura_en_Seguridad_Informática-Universidad_Católica_de_Salta-00FFAA?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Bachiller_en_Ciencias_Humanas_y_Naturales-2019-FFD700?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Tecnicatura_en_Seguridad_Informática00FFAA?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <p align="center">

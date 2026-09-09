@@ -177,14 +177,6 @@
 
 ---
 
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">

@@ -164,7 +164,7 @@
 ### 🎓 Education & Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tecnicatura_en_Seguridad_Informática00FFAA?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Tecnicatura_en_Seguridad_Informática-00FFAA?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <p align="center">

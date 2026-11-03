@@ -112,7 +112,7 @@
   <h2>🛠️ Core Skills</h2>
 </div>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="33%" valign="top">
       <h3>🛡️ Blue Team / Cyber</h3>

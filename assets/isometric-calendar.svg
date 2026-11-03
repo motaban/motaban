@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="380" viewBox="0 0 960 380">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="380" fill="url(#bg)" rx="14"/>
+
+  <!-- Title -->
+  <text x="480" y="36" text-anchor="middle" fill="#ff69b4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600">
+    📅 Contributions Calendar — Full Year
+  </text>
+  <text x="480" y="58" text-anchor="middle" fill="#f8bbd0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">
+    Isometric view • Pink / Fuchsia theme
+  </text>
+
+  <!-- Month labels -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#f8bbd0" text-anchor="middle">
+    <text x="95" y="95">Ene</text>
+    <text x="165" y="95">Feb</text>
+    <text x="235" y="95">Mar</text>
+    <text x="305" y="95">Abr</text>
+    <text x="375" y="95">May</text>
+    <text x="445" y="95">Jun</text>
+    <text x="515" y="95">Jul</text>
+    <text x="585" y="95">Ago</text>
+    <text x="655" y="95">Sep</text>
+    <text x="725" y="95">Oct</text>
+    <text x="795" y="95">Nov</text>
+    <text x="865" y="95">Dic</text>
+  </g>
+
+  <!-- Isometric cubes (12 columns for months, 4 rows for intensity levels) -->
+  <g transform="translate(55, 110)">
+
+    <!-- Helper: each month is a small isometric block group -->
+    <!-- Month 1 - Ene -->
+    <g transform="translate(0,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#fce4ec"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#f8bbd0"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#f48fb1"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#f06292"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#ec407a"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#e91e63"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#c2185b"/>
+    </g>
+
+    <!-- Month 2 - Feb -->
+    <g transform="translate(70,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#f8bbd0"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#f48fb1"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#f06292"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#ec407a"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#e91e63"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#c2185b"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#ad1457"/>
+    </g>
+
+    <!-- Month 3 - Mar -->
+    <g transform="translate(140,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#ff69b4"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#e91e63"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#c2185b"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#ad1457"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#880e4f"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#f06292"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#ec407a"/>
+    </g>
+
+    <!-- Month 4 - Abr -->
+    <g transform="translate(210,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#fce4ec"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#f8bbd0"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#f48fb1"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#f06292"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#e91e63"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#c2185b"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#ad1457"/>
+    </g>
+
+    <!-- Month 5 - May -->
+    <g transform="translate(280,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#f48fb1"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#f06292"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#ec407a"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#e91e63"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#c2185b"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#ad1457"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#880e4f"/>
+    </g>
+
+    <!-- Month 6 - Jun -->
+    <g transform="translate(350,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#ff69b4"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#e91e63"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#c2185b"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#ad1457"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#f06292"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#ec407a"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#e91e63"/>
+    </g>
+
+    <!-- Month 7 - Jul -->
+    <g transform="translate(420,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#f8bbd0"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#f48fb1"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#f06292"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#ec407a"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#e91e63"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#c2185b"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#ad1457"/>
+    </g>
+
+    <!-- Month 8 - Ago -->
+    <g transform="translate(490,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#e91e63"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#c2185b"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#ad1457"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#880e4f"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#ff69b4"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#f06292"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#ec407a"/>
+    </g>
+
+    <!-- Month 9 - Sep -->
+    <g transform="translate(560,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#fce4ec"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#f8bbd0"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#f48fb1"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#f06292"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#e91e63"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#c2185b"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#ad1457"/>
+    </g>
+
+    <!-- Month 10 - Oct -->
+    <g transform="translate(630,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#f48fb1"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#f06292"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#ec407a"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#e91e63"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#c2185b"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#ad1457"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#880e4f"/>
+    </g>
+
+    <!-- Month 11 - Nov -->
+    <g transform="translate(700,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#ff69b4"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#e91e63"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#c2185b"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#ad1457"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#f06292"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#ec407a"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#e91e63"/>
+    </g>
+
+    <!-- Month 12 - Dic -->
+    <g transform="translate(770,0)">
+      <path d="M20,10 L40,0 L60,10 L40,20 Z" fill="#f8bbd0"/>
+      <path d="M20,10 L40,20 L40,40 L20,30 Z" fill="#f48fb1"/>
+      <path d="M40,20 L60,10 L60,30 L40,40 Z" fill="#f06292"/>
+      <path d="M20,35 L40,45 L40,65 L20,55 Z" fill="#ec407a"/>
+      <path d="M40,45 L60,35 L60,55 L40,65 Z" fill="#e91e63"/>
+      <path d="M20,60 L40,70 L40,90 L20,80 Z" fill="#c2185b"/>
+      <path d="M40,70 L60,60 L60,80 L40,90 Z" fill="#ad1457"/>
+    </g>
+  </g>
+
+  <!-- Legend -->
+  <text x="40" y="345" fill="#f8bbd0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Less</text>
+  <rect x="85" y="332" width="18" height="18" rx="3" fill="#fce4ec"/>
+  <rect x="108" y="332" width="18" height="18" rx="3" fill="#f8bbd0"/>
+  <rect x="131" y="332" width="18" height="18" rx="3" fill="#f48fb1"/>
+  <rect x="154" y="332" width="18" height="18" rx="3" fill="#f06292"/>
+  <rect x="177" y="332" width="18" height="18" rx="3" fill="#e91e63"/>
+  <rect x="200" y="332" width="18" height="18" rx="3" fill="#c2185b"/>
+  <rect x="223" y="332" width="18" height="18" rx="3" fill="#ad1457"/>
+  <text x="255" y="345" fill="#f8bbd0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">More</text>
+</svg>
